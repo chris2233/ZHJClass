@@ -22,6 +22,7 @@
 -(void)say
 {
     NSLog(@"oh!!!!!");
+    NSLog(@"dasdasds");
 }
 
 - (void)didReceiveMemoryWarning {
